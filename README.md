@@ -1,17 +1,11 @@
-## Hi, I'm Maria Fernanda 👋
+Hi, I'm María Fernanda👋
 
-Civil Engineer building software tools to automate engineering workflows.
+Civil Engineer building Python + backend tools for data automation and engineering workflows. 
 
-## Tech
+⚙️ Python · FastAPI · SQL · ETL · Testing
 
-Currently building with:
-- Python
-- SQL
-- Git
-- Software testing
+🚀 Projects:
+- AutoPIPE Displacement Processor (ETL + API for engineering data)
 
-## Projects
-### Structure Drifts Automation tool
-
-A python tool developed to automate structure drifts calculations.
+🌍 ES | EN | IT
 
